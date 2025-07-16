@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace AvaloniaApplication1;
+namespace OpenWriter;
 
 public partial class MainWindow : Window
 {

@@ -1,7 +1,7 @@
-﻿using Avalonia;
-using System;
+﻿using System;
+using Avalonia;
 
-namespace AvaloniaApplication1;
+namespace OpenWriter;
 
 class Program
 {
