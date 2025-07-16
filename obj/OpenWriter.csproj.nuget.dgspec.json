@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tyler Fewer\\RiderProjects\\AvaloniaApplication1\\AvaloniaApplication1\\OpenWriter.csproj": {}
+    "C:\\Users\\Tyler Fewer\\RiderProjects\\OpenWriter\\OpenWriter\\OpenWriter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tyler Fewer\\RiderProjects\\AvaloniaApplication1\\AvaloniaApplication1\\OpenWriter.csproj": {
+    "C:\\Users\\Tyler Fewer\\RiderProjects\\OpenWriter\\OpenWriter\\OpenWriter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tyler Fewer\\RiderProjects\\AvaloniaApplication1\\AvaloniaApplication1\\OpenWriter.csproj",
+        "projectUniqueName": "C:\\Users\\Tyler Fewer\\RiderProjects\\OpenWriter\\OpenWriter\\OpenWriter.csproj",
         "projectName": "OpenWriter",
-        "projectPath": "C:\\Users\\Tyler Fewer\\RiderProjects\\AvaloniaApplication1\\AvaloniaApplication1\\OpenWriter.csproj",
+        "projectPath": "C:\\Users\\Tyler Fewer\\RiderProjects\\OpenWriter\\OpenWriter\\OpenWriter.csproj",
         "packagesPath": "C:\\Users\\Tyler Fewer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tyler Fewer\\RiderProjects\\AvaloniaApplication1\\AvaloniaApplication1\\obj\\",
+        "outputPath": "C:\\Users\\Tyler Fewer\\RiderProjects\\OpenWriter\\OpenWriter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tyler Fewer\\AppData\\Roaming\\NuGet\\NuGet.Config"

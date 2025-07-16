@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenWriter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6b0cccd45331a81564a49f3f9d395baca570301")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6539e62b84c008db921ff9dd6257c8089892053")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenWriter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenWriter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
